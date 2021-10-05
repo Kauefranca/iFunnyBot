@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Kauefranca/iFunnyBot/issues"
   },
-  "homepage": "https://github.com/Kauefranca/iFunnyBot#readme"
+  "homepage": "https://github.com/Kauefranca/iFunnyBot#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "dotenv": "^10.0.0"
+  }
 }
