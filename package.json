@@ -1,0 +1,20 @@
+{
+  "name": "ifunnybot",
+  "version": "1.0.0",
+  "description": "### Minha tentativa de criar um chat bot no iFunny :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauefranca/iFunnyBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kauefranca/iFunnyBot/issues"
+  },
+  "homepage": "https://github.com/Kauefranca/iFunnyBot#readme"
+}
